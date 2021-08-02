@@ -1,12 +1,12 @@
 require("dotenv").config();
 
 module.exports = {
-  hostName: "Stephanie Eckles",
-  hostTwitter: "5t3ph",
-  twitchUsername: "5t3phDev",
+  hostName: "Chris Enns",
+  hostTwitter: "iChris",
+  twitchUsername: "gsfm",
   // Optional - see README
   twitchOauth: process.env.OAUTH || "",
-  title: "Stream Title Here",
+  title: "Let's Do Some Editing",
   chatCommands: ["dev", "yay"],
   guestName: "",
   guestTwitter: "",
